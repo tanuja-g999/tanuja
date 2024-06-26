@@ -9,11 +9,9 @@ const Work = (item) => {
       <h2 className='section__title'>Projects</h2>
 
       <span className='section__subtitle'>Most recent works</span>
-      <div className='work__card' key={item.id}>
 
 
       <Works />
-      </div>
     </section>
   );
 };

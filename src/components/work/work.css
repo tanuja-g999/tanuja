@@ -114,13 +114,4 @@
   .work__filters {
     column-gap: 0.25rem;
   }
-  .work___card {
-    background-color: var(--container-color);
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    padding: 1.25rem;
-    border-radius: 1rem;
-    width: 20px;
-    height: 300px;
-  }
-
 }
