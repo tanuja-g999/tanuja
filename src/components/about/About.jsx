@@ -16,9 +16,7 @@ const About = () => {
           <Info />
 
           <p className='about__description'>
-          As a full stack developer with 3 years of experience in the software development field,
-          I am seeking a challenging opportunity where I can enhance my professional and
-          personal skills while contributing valuable expertise to the team.
+          As a passionate and self-motivated software developer with 2 years of hands-on experience, I am driven by a desire to learn and explore new technologies. I thrive in dynamic environments that challenge me to deliver innovative, high-impact solutions. Eager to collaborate with forward-thinking teams, I seek opportunities to contribute my expertise while growing both professionally and personally.
           </p>
 
       <a href='#contact' className='button button--flex'>

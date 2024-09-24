@@ -123,7 +123,7 @@ const Qualification = () => {
                   Kennesaw State University, GA
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Jan 2023 - Jul 2023
+                  <i className="uil uil-calendar-alt"></i> Dec 2022 - Aug 2023
                 </div>
               </div>
             </div>
@@ -155,12 +155,12 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Software Engineer Intern</h3>
+                <h3 className="qualification__title">Associate Software Engineer </h3>
                 <span className="qualification__subtitle">
                 Prasthana Software Solutions Pvt Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> Jun 2020 - Dec 2021
+                  <i className="uil uil-calendar-alt"></i> May 2021 - Dec 2021
                 </div>
               </div>
             </div>
