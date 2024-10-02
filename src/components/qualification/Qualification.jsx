@@ -160,7 +160,7 @@ const Qualification = () => {
                 Prasthana Software Solutions Pvt Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> May 2021 - Dec 2021
+                  <i className="uil uil-calendar-alt"></i> Jan 2021 - Dec 2021
                 </div>
               </div>
             </div>
